@@ -44,6 +44,6 @@ toodCode is affiliated with the CodeWithOmar YouTube channel, a platform dedicat
 
 For inquiries, suggestions, or reporting issues related to the toodCode GitHub Organization or the CodeWithOmar YouTube channel, please reach out to us:
 
-- 📫 **Email:** [your-email@example.com](omaribrilabdulkhadir)
+- 📫 **Email:** [omarjibrilabdulkhadir@gmail.com](omarjibrilabdulkhadir@gmail.com)
 
 Your participation and contributions are what make our community thrive. Thank you for being a part of toodCode and CodeWithOmar!
