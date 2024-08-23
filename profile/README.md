@@ -3,11 +3,11 @@
 
 Welcome to the toodCode GitHub Organization! These terms and conditions outline guidelines for participation in our community, closely associated with the CodeWithOmar YouTube channel.
 
-## About CodeWithOmar
+## About Programming with Omar
 
 toodCode is affiliated with the CodeWithOmar YouTube channel, a platform dedicated to teaching and sharing knowledge about programming. Our GitHub organization extends the learning experience from the channel, providing practical opportunities to contribute and collaborate on real-world projects.
 
-📺 **YouTube:** [CodeWithOmar](https://www.youtube.com/@Omar-Tood/videos)
+📺 **YouTube:** [Programming](https://www.youtube.com/@Omar-Tood/videos)
 
 ## 1. Joining the toodCode Community
 
